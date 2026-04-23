@@ -1,0 +1,11 @@
+index,timestamp_ms,event
+0,0,mouse1_down
+1,126,mouse1_up
+2,267,mouse1_down
+3,403,mouse1_up
+4,581,mouse1_down
+5,714,mouse1_up
+6,873,mouse1_down
+7,1015,mouse1_up
+8,1182,mouse1_down
+9,1326,mouse1_up
